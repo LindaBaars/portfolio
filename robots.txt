@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+Allow: /index.html
+Allow: /indexnl.html
+Allow: /javascript/function.js
+Allow: /javascript/portfolio.js
+
+Sitemap: http://renswiebenga.com/sitemap.xml
