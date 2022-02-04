@@ -6,7 +6,7 @@ $(document).ready(function () {
 			 typeText("Welkom op de website van Linda Baars",0);
 		}  
 		 else {
-			typeText("Registerplein geregistreerd Maatschappelijk Werker uit Utrecht",-1);
+			typeText("Beleidsadviseur Sociaal Domein uit Utrecht",-1);
 		}
 		
 		/*else if (number == 1)
